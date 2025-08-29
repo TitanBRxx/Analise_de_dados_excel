@@ -9,7 +9,7 @@ Os dados utilizados são reais e foram obtidos no [Kaggle](https://www.kaggle.co
 
 ## Apresentação Geral do Dataset:
 
-Este conjunto de dados contém uma lista de +16.000 linhas de videogames com vendas superiores a 100.000 cópias. Foi gerado a partir de uma busca no vgchartz.com
+Este conjunto de dados contém uma lista de +16.000 linhas de videogames com vendas superiores a 100.000 cópias. Foi gerado a partir de uma busca no vgchartz.com e disponibilizado no kaggle.com
 
 ---
 

@@ -1,0 +1,51 @@
+
+
+Análise de Desempenho por Publicadora (Publisher)
+
+
+Uma análise das três principais publicadoras por volume total de vendas que revela estratégias distintas
+
+1. Nintendo: 
+
+A Nintendo lidera o dataset em volume de vendas, com aproximadamente 1,78 bilhão de unidades vendidas.
+
+Análise: Este domínio é impulsionado por uma estratégia única de focar não no público gamer, mas em gerar momentos em família, através 
+de jogos simples de aprender e que podem divertir qualquer pessoa.
+
+A concentração de vendas é notável, onde os 10 títulos mais vendidos representam mais de 20% do total de vendas da empresa. 
+Títulos como Wii Sports, Super Mario Bros. e Tetris (este último, embora não seja uma IP original da Nintendo, foi massivamente distribuído por ela) 
+não são apenas jogos, mas fenômenos culturais que impulsionam a venda de hardware.
+
+Métrica-Chave: A Nintendo possui a maior média de vendas por título (2.7 milhões), indicando a força bruta de cada um de seus lançamentos e uma estratégia 
+de "quality over quantity".
+
+
+2. Electronic Arts: Domínio em Gêneros Esportivos
+
+A Electronic Arts (EA) ocupa a segunda posição, com 1,09 bilhão de unidades vendidas.
+
+A estratégia da EA contrasta com a da Nintendo, focando em uma ampla diversificação através de múltiplas franquias e plataformas. Seu catálogo de 605 títulos 
+únicos é significativamente mais pulverizado, com os 10 principais títulos representando 15% das vendas totais. O sucesso é sustentado por títulos ancorados em 
+ligas esportivas reais (ex: FIFA series) e em franquias de sucesso em múltiplas plataformas (ex: Battlefield).
+
+A média de vendas por título é de 1.8 milhão
+
+
+3. Activision: Eficiência e Foco em Franquias de Blockbuster
+
+A Activision figura em terceiro lugar, com 721 milhões de unidades vendidas.
+A Activision demonstra uma estratégia de alta concentração e eficiência em torno de uma franquia central. 
+A dependência da série Call of Duty é evidente, com seus 10 principais títulos representando aproximadamente 33% de todas as suas vendas. 
+Isso indica um modelo de negócio altamente bem-sucedido, porém potencialmente mais vulnerável a mudanças de gosto do público em comparação com suas concorrentes.
+
+Métrica-Chave: Com uma média de 1.7 milhão de vendas por título em um catálogo de 414 jogos, a Activision mostra uma forte performance por lançamento, ainda que 
+seu sucesso seja amplamente atrelado a um número menor de propriedades.
+
+Conclusão Estratégica:
+A análise revela três modelos distintos de sucesso:
+
+Nintendo: Modelo de ecossistema fechado e IPs fortíssimas que vendem hardware e software.
+
+Electronic Arts: Modelo de diversificação e pulverização, dominando gêneros específicos (esportes) across múltiplas plataformas.
+
+Activision: Modelo de foco e intensidade, concentrando recursos em uma ou duas franquias de blockbuster com apelo massivo e recorrente.
