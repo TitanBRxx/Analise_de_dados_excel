@@ -1,8 +1,0 @@
-Power query usado para:
-
-1-Dividir o texto em colunas
-2-Usar a função "usar primeira linha como cabeçalho"
-3-Substituir valores de células vazias por "não informado"
-
-OBS: Caso receba dados semelhantes com frequência já posso refazer esses 
-passos automaticamente com power query.
