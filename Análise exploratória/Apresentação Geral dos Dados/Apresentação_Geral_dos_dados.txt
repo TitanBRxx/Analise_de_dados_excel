@@ -48,7 +48,7 @@ Média de faturamento dos jogos por região:
    Europa = 212 mil dólares
    Japão = 113 mil dólares
    outros = 69 mil dólares
-   global = 777 mil dólares
+   
 
 
 
