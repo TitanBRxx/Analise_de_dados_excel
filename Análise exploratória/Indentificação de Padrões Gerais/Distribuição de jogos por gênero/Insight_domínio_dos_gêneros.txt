@@ -1,0 +1,15 @@
+Entre os 11.500 jogos únicos totais da tabela o gráfico mostra o percentual que pertence a cada gênero.
+
+
+Justificando o Domínio dos Gêneros.
+
+* A Força do Gênero de Ação:
+O domínio do gênero Ação no dataset não é coincidência, mas sim um reflexo do mercado global de games. A popularidade deste gênero se deve, 
+em grande parte, à sua versatilidade e ao apelo de grandes franquias como Grand Theft Auto, Call of Duty e Red Dead Redemption. Esses 
+títulos oferecem jogabilidade dinâmica, narrativas envolventes e alta rejogabilidade, o que atrai uma base de jogadores extremamente ampla 
+e garante vendas massivas ano após ano.
+
+*O Impacto Consistente dos Jogos de Esporte:
+O gênero Esportes, por sua vez, tem sua força justificada pelo modelo de negócios de suas principais franquias. Títulos como FIFA 
+(agora EA Sports FC), NBA 2K e Madden NFL possuem um ciclo de lançamento anual, o que cria um fluxo de receita previsível e constante. 
+Além disso, a lealdade dos fãs e o apelo do multiplayer competitivo garantem que esses jogos mantenham um alto nível de engajamento e vendas a cada nova edição.
