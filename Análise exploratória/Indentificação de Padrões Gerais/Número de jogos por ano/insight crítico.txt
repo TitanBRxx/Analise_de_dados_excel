@@ -1,6 +1,12 @@
-Olhando para o gráfico, notamos um crescimento constante no número de jogos por ano até 2008, seguido por uma queda drástica. 
-Essa anomalia contrasta com o crescimento conhecido da indústria de games.
-A razão para essa queda é que o dataset só contabiliza jogos que superaram 100 mil vendas. Os jogos mais antigos tiveram tempo 
-de sobra para atingir essa marca. 
-Já os títulos mais recentes não, o que gera o declínio aparente no gráfico. 
-Em essência, o gráfico não mostra o total de jogos lançados, mas sim o número de jogos que se tornaram sucessos de venda.
+O gráfico mostra um crescimento quase constante de lançamentos até 2008, seguido de uma forte queda.
+
+Esse comportamento não reflete a realidade da indústria de games, que segue em expansão, por esse motivo me questionei sobre oque gerou 
+essa estranha queda, primeiro criei uma hipótese: será que isso se deve ao fato do dataset só considerar jogos que atingiram ao menos 
+100 mil cópias vendidas? Sendo assim jogos lançados após 2015 tiveram pouco tempo para alcançar esse marco, o que causa a queda aparente... 
+Para testar essa hipótese decidi medir a correlação entre a idade de cada jogo (maior ano considerado no dataset que é 2020 menos a data 
+de lançamento do game) e o número de vendas de cada jogo, mas para minha supresa a correlação, apesar de positiva, foi extremamente fraca (0,05).
+
+Resposta encontrada: Ao buscar contexto, informações do mercado de games descobri que o mercado de jogos continuou crescendo, mas o modo de 
+consumo mudou. Antes (anos 80–2000s) o desempenho era medido por unidades físicas vendidas, em 2008 começaram a entrar em cena downloads 
+digitais massivos, jogos free-to-play com microtransações (jogos grátis que faturam com vendas dentro do game) e jogos mobile, mais assinaturas, como gamepass
+ — tudo isto gera receita e atenções, mas não aparece num contador de “cópias vendidas”.
