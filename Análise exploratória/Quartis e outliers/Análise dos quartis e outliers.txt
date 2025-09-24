@@ -1,0 +1,21 @@
+Análise dos Quartis e Outliers do Dataset
+
+A análise dos quartis revela um cenário interessante para o nosso dataset. A mediana (o 2º quartil) mostra que 50% dos jogos venderam menos de 0,19 milhão de cópias (190 mil). Esse valor está bem longe da média de 0,78 milhão de cópias (780 mil), o que já é um forte indicador da presença de valores discrepantes no nosso conjunto de dados.
+
+O 1º quartil (Q1) confirma essa tendência, mostrando que 25% dos jogos venderam apenas 0,06 milhão de cópias (60 mil) ou menos.
+
+Esses números deixam claro que a grande maioria dos jogos no dataset não atinge vendas expressivas, enquanto alguns poucos títulos dominam completamente o mercado.
+
+Os principais outliers, que são os verdadeiros responsáveis por puxar a média para cima, são:
+
+Wii Sports: com 82 milhões de cópias vendidas.
+
+GTA V: com 55 milhões de cópias vendidas
+
+Super Mario Bros: com 40 milhões de cópias vendidas.
+
+A presença desses "monstros de venda" é tão significativa que apenas 1% dos jogos mais vendidos representam cerca de 20% do faturamento total do dataset.
+
+
+
+
